@@ -1,5 +1,5 @@
 <?php
-// Error Reporting
+// Errorrrr Reporting
 error_reporting(E_ALL);
 
 // HTTP
